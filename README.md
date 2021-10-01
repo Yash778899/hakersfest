@@ -1,2 +1,2 @@
-# hakersfest
-hacktoberfestrepo
+# hackersfest
+hacktoberfest Repository
